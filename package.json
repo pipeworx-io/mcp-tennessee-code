@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-tennessee-code",
+  "version": "0.1.0",
+  "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-tennessee-code": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "tennessee-code"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-tennessee-code.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-d3c7edba0e8bf3dc674759e78b60027de242b92513ad53a2232bf8be6ce529ee",
+    "sourceCommit": "0ce6905893fe8da0d285be2f05754a4200d67371"
+  }
+}
