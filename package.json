@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-tennessee-code",
-  "version": "0.1.0",
-  "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation",
+  "version": "0.1.1",
+  "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation and by topic. Fleet #2885.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d3c7edba0e8bf3dc674759e78b60027de242b92513ad53a2232bf8be6ce529ee",
-    "sourceCommit": "0ce6905893fe8da0d285be2f05754a4200d67371"
+    "sourceHash": "v1-99f4ab5f791484eebdb9b129d222936996372286c7d23f12d69b8a53962696d4",
+    "sourceCommit": "3723e46c6d115bd4a1fd2175e6bf758555e7cb50"
   }
 }

@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/tennessee-code",
   "title": "Tennessee Code",
-  "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation",
-  "version": "0.1.0",
+  "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation and by topic. Fleet #2885.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/tennessee-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-tennessee-code",

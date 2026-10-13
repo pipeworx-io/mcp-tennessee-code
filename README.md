@@ -3,7 +3,7 @@
 Tennessee Code Annotated (T.C.A.) — state statutes by citation and by
 official catchline (topic search). Keyless.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1764+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1784+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 **This pack serves a POINT-IN-TIME SNAPSHOT dated 2021-05-21, not the current
 code.** Read "Why this is a snapshot" below before using it for anything
@@ -398,7 +398,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1764+ data sources. The
+Both URLs reach the same gateway and the same 1784+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
