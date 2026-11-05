@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tennessee-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation and by topic. Fleet #2885.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "tennessee-code",
     "gatewaySlug": "tennessee-code",
-    "sourceHash": "v1-929ebb7f01b7c92f32a6851fbe72bfacc5503601b1f5af1b2e4f23a648ef45c6",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-c28bd0f696344ae9d9f2820202440a374a4c80e714f0d64cd1b2068b255c9083",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
